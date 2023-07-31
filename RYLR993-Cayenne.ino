@@ -82,7 +82,7 @@ loraSerial.println(Envio);
 //debugSerial.println(Envio);
 //debugSerial.print("Nº de Bytes: ");debugSerial.println(lpp.getSize());
 
-// Espero 7s hata la próxima medida
+// Espero 20s hata la próxima medida
 delay(20000);
 
 }
